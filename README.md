@@ -101,4 +101,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. 
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
